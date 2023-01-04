@@ -1,9 +1,0 @@
-[server]
-port = 80
-
-[theme]
-primaryColor="#5e5e5e"
-backgroundColor="#c3582d"
-secondaryBackgroundColor="#1e4358"
-textColor="#ffffff"
-font="monospace"
